@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股超跌反弹选股"
+  short_description: "判断A股短期反弹环境并筛选超跌反弹候选股票"
+  default_prompt: "Use $skill-oversold-rebound to assess the current A-share rebound environment and screen oversold rebound candidates."
