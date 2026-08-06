@@ -2,9 +2,21 @@
 name: skill-oversold-rebound
 description: >-
   A股超跌反弹择时与选股：严格使用 PandaData，从市场情绪、大盘资金流向、资金结构、盘面特点、国家队证据五维判断 1–10 日反弹阶段，并从沪深300、中证500或中证1000成分股中筛选候选。当用户说「超跌反弹」「情绪冰点」「抢反弹」「大跌后能不能抄底」「反弹候选」「哪些股票跌透了」时触发。只做反弹环境与候选研究；长期价值分析转用 a-share-stock-dossier，系统策略回测转用 report-replication。
+metadata:
+  organization: QuantSkills
+  organization_url: https://github.com/quantskills
+  repository: skill-oversold-rebound
+  repository_url: https://github.com/quantskills/skill-oversold-rebound
+  project_type: skill
+  collection: stock-screening
+  type: quant
+  version: 1.0.1
+  license: GPL-3.0-only
 ---
 
 # A股超跌反弹（Oversold Rebound）
+
+> QuantSkills 社区项目，由 GitHub 用户 `cikeqi` 维护。项目尚未经过独立审核，不代表 QuantSkills 官方认证，也不承诺收益或生产环境适用性。
 
 ## 0. 做什么 / 不做什么
 
