@@ -133,3 +133,6 @@ python3.11 -m unittest discover -s tests -v
 - Maintainer: GitHub user `cikeqi`
 - Repository: `quantskills/skill-oversold-rebound`
 - License: [GNU GPL v3.0 only](LICENSE) (`GPL-3.0-only`)
+
+
+Pandadata compatibility maintenance: [abgyjaguo](https://github.com/abgyjaguo). Existing authorship is retained.

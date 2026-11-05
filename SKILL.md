@@ -160,3 +160,7 @@ python3.11 $SKILL/scripts/oversold_rebound.py \
 9. 免责声明
 
 > 本报告基于 PandaData 公开数据与规则化分析生成，仅供研究参考，不构成任何投资建议。超跌可能继续下跌，任何候选均需结合下一交易日价格确认和风险控制。
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.
